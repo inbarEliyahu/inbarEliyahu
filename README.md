@@ -44,6 +44,16 @@ I'm a mid-level developer with a broad stack — from systems-level C/C++ to mod
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
+
+
+### Let's connect
+
+I'm always up for a good conversation about code, projects, or opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inbar-eliyahu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:inbarel23@gmail.com)
+
+---
 ### GitHub stats
 
 <div align="center">
@@ -55,16 +65,6 @@ I'm a mid-level developer with a broad stack — from systems-level C/C++ to mod
 </div>
 
 ---
-
-### Let's connect
-
-I'm always up for a good conversation about code, projects, or opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inbar-eliyahu/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:inbarel23@gmail.com)
-
----
-
 <div align="center">
 <sub>Open to work · Open to collaborate · Always building</sub>
 </div>
