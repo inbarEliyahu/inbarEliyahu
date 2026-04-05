@@ -2,9 +2,7 @@
 
 # Hi, I'm Inbar Eliyahu 👋
 
-**Mid-level developer** · Building things with kotlin, Java, JavaScript, Python, C++
-
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%2300C853?style=flat-square&logo=github&logoColor=white)](mailto:inbarel23@gmail.com)
+**Mid-level developer** · Building things with kotlin, Java, JavaScript, Python
 [![Collaborations Welcome](https://img.shields.io/badge/Collaborations-Welcome-%230A66C2?style=flat-square)](mailto:inbarel23@gmail.com)
 
 </div>
@@ -13,7 +11,7 @@
 
 ### About me
 
-I'm a mid-level developer with a broad stack — from systems-level C/C++ to modern Angular frontends and Python & Java backends. I enjoy building things end-to-end and learning as I go.
+I'm a mid-level developer with a broad stack — modern Angular and react frontends and Python & Java backends. I enjoy building things end-to-end and learning as I go.
 
 - 🔭 Currently working on personal projects and exploring new technologies
 - 🤝 Open to collaborating on interesting open source or side projects
@@ -27,7 +25,6 @@ I'm a mid-level developer with a broad stack — from systems-level C/C++ to mod
 **Languages**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
